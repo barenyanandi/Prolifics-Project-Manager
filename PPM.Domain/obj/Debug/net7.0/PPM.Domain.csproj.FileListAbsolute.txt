@@ -1,0 +1,15 @@
+C:\ProlificsProjectManager\PPM.Domain\bin\Debug\net7.0\PPM.Domain.deps.json
+C:\ProlificsProjectManager\PPM.Domain\bin\Debug\net7.0\PPM.Domain.dll
+C:\ProlificsProjectManager\PPM.Domain\bin\Debug\net7.0\PPM.Domain.pdb
+C:\ProlificsProjectManager\PPM.Domain\bin\Debug\net7.0\PPM.Model.dll
+C:\ProlificsProjectManager\PPM.Domain\bin\Debug\net7.0\PPM.Model.pdb
+C:\ProlificsProjectManager\PPM.Domain\obj\Debug\net7.0\PPM.Domain.csproj.AssemblyReference.cache
+C:\ProlificsProjectManager\PPM.Domain\obj\Debug\net7.0\PPM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProlificsProjectManager\PPM.Domain\obj\Debug\net7.0\PPM.Domain.AssemblyInfoInputs.cache
+C:\ProlificsProjectManager\PPM.Domain\obj\Debug\net7.0\PPM.Domain.AssemblyInfo.cs
+C:\ProlificsProjectManager\PPM.Domain\obj\Debug\net7.0\PPM.Domain.csproj.CoreCompileInputs.cache
+C:\ProlificsProjectManager\PPM.Domain\obj\Debug\net7.0\PPM.Domain.csproj.CopyComplete
+C:\ProlificsProjectManager\PPM.Domain\obj\Debug\net7.0\PPM.Domain.dll
+C:\ProlificsProjectManager\PPM.Domain\obj\Debug\net7.0\refint\PPM.Domain.dll
+C:\ProlificsProjectManager\PPM.Domain\obj\Debug\net7.0\PPM.Domain.pdb
+C:\ProlificsProjectManager\PPM.Domain\obj\Debug\net7.0\ref\PPM.Domain.dll
