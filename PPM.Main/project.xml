@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Project>
+    <ProjectId>1</ProjectId>
+    <ProjectName>etyurty</ProjectName>
+    <StartDate>2020-11-11T00:00:00</StartDate>
+    <EndDate>2022-11-11T00:00:00</EndDate>
+    <EmployeeAddList />
+  </Project>
+</ArrayOfProject>
